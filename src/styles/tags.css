@@ -1,0 +1,48 @@
+.tagButton {
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1rem;
+  background: #808080;
+  color: white;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#tagBar {
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1rem;
+  border-radius: 0.25rem;
+  color: #d4d4d4;
+  border: 1px solid #dcdcdc;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.tagItem {
+  padding: 10px;
+  background: #808080;
+  margin-right: 1em;
+  color: white;
+  border-radius: 0.25rem;
+  font-size: 0.75em;
+  margin-bottom: 20px;
+}
+
+.tagRow {
+  margin-top: 25px;
+}
+.tag-List {
+  margin-left: 2em;
+  margin-bottom: 50px;
+  background: white;
+}
+
+.tagListItem {
+  padding: 10px;
+  margin-right: 1em;
+  color: white;
+  border-radius: 0.25rem;
+  font-size: 0.75em;
+  margin-bottom: 20px;
+  background: black;
+}
